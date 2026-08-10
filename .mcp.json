@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "freqtrade": {
+      "command": "/Users/jie/code/freqtrade_dev_mcp/.venv/bin/python",
+      "args": ["-m", "src.server"],
+      "env": {
+        "PYTHONPATH": "/Users/jie/code/freqtrade_dev_mcp",
+        "PATH": "/usr/bin:/bin"
+      }
+    }
+  }
+}

@@ -1,4 +1,5 @@
-mcp[client]>=0.9.0
+# mcp 2.x removed the decorator API used by this project; pin to 1.x
+mcp>=1.0,<2.0
 freqtrade>=2025.7
 dateparser>=1.1.0
 pycoingecko>=3.0.0
